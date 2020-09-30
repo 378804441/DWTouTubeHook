@@ -1,0 +1,10 @@
+Package: com.ding.youtubehook
+Name: youtube_hook
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ding
+Author: Ding
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-56+debug
+Installed-Size: 200
